@@ -1,5 +1,9 @@
 # tabs
 
+[![Build Status](https://travis-ci.org/michaelliao/openweixin.svg?branch=master)](https://travis-ci.org/michaelliao/openweixin)
+![JS gzip size](http://img.badgesize.io/https://unpkg.com/element-ui/lib/index.js?compression=gzip&label=gzip%20size:%20JS)
+![CSS gzip size](http://img.badgesize.io/https://unpkg.com/element-ui/lib/theme-default/index.css?compression=gzip&label=gzip%20size:%20CSS)
+
 > [Element](https://github.com/ElemeFE/element) Tabs clone, extract the core function and did a little change. If you have a better idea of this component improvement, please share it and I will update it immediately.
 
 ## Install
